@@ -18,9 +18,10 @@
 
 
 ### Page
-https://cdecl.github.io/
-
----
+https://cdecl.github.io <br/>
+https://cdecl.tistory.com
+  
+### --
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdecl&layout=compact&theme=swift)
 <!-- ![Byung Kyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdecl&show_icons=true&theme=swift) -->
